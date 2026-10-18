@@ -1,11 +1,11 @@
 {
   "name": "indamix",
-  "version": "1.21.17",
+  "version": "1.22.19",
   "description": "In Da Mix gas blending calculator for scuba divers: nitrox, trimix, heliair, heliox, MOD, best mix and fills.",
   "contextFileName": "GEMINI.md",
   "mcpServers": {
     "indamix": {
-      "httpUrl": "https://indamixapp.divingtechnics.com/mcp"
+      "httpUrl": "https://indamix.divingtechnics.com/mcp"
     }
   }
 }

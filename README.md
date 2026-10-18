@@ -4,7 +4,7 @@ A [Gemini CLI](https://github.com/google-gemini/gemini-cli) extension that conne
 **In Da Mix** gas blending calculator for scuba divers: nitrox, trimix, heliair and heliox fill
 plans, gas usage from banks, how many fills your banks give, top-ups, best mix and MOD.
 
-It uses the public In Da Mix server (`https://indamixapp.divingtechnics.com/mcp`, no account, no
+It uses the public In Da Mix server (`https://indamix.divingtechnics.com/mcp`, no account, no
 API key) with the same engine as the In Da Mix app.
 
 ## Install
@@ -22,7 +22,7 @@ Then ask, for example:
 ## Notes
 
 - A calculation aid only: a gas is what the analyser says it is. Analyse every gas before use.
-- Privacy: https://indamixapp.divingtechnics.com/privacy · Terms: https://indamixapp.divingtechnics.com/terms
-- Other assistants (ChatGPT, Claude, Cursor, VS Code): https://indamixapp.divingtechnics.com/ai
+- Privacy: https://indamix.divingtechnics.com/privacy · Terms: https://indamix.divingtechnics.com/terms
+- Other assistants (ChatGPT, Claude, Cursor, VS Code): https://indamix.divingtechnics.com/ai
 
 © Diving Technics
